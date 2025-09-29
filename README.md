@@ -57,7 +57,7 @@ To use this application:
 4. The `config.js` file is ignored by Git, so your API key will remain private
 
 ## Live Demo
-[Link]
+https://weather-app-five-phi-46.vercel.app/
 
 ## License
 
