@@ -52,7 +52,9 @@ A modern, responsive weather application that provides real-time weather informa
 
 To use this application:
 1. Get an API key from [OpenWeather](https://openweathermap.org/api)
-2. Replace the API key in `script.js` with your own key
+2. Copy `config.template.js` to `config.js`
+3. Replace 'YOUR_API_KEY_HERE' in `config.js` with your API key
+4. The `config.js` file is ignored by Git, so your API key will remain private
 
 ## License
 
