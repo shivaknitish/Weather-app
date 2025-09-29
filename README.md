@@ -56,6 +56,9 @@ To use this application:
 3. Replace 'YOUR_API_KEY_HERE' in `config.js` with your API key
 4. The `config.js` file is ignored by Git, so your API key will remain private
 
+## Live Demo
+[Link]
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
