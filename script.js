@@ -1,4 +1,4 @@
-const apiKey = "cf59e562fd541df2e389301e6b04dd86"; // It's best to hide this key in a real application
+const apiKey = config.apiKey;
 
 const searchBtn = document.getElementById("searchBtn");
 const cityInput = document.getElementById("cityInput");
